@@ -22,4 +22,4 @@
 
 > **Achievement:** My ROC AUC score is **0.89399**
 
-* Check out more details in my [Medium blog]([https://medium.com/@nguyenhuynh01.nh/list/kaggle-competition-data-science-b5ae64e91157]).
+* Check out more details in my [Medium blog](https://medium.com/@nguyenhuynh01.nh/list/kaggle-competition-data-science-b5ae64e91157).
